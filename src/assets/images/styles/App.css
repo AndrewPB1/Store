@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  padding-bottom: 60px; /* Para evitar que el footer cubra contenido */
+}
+
+main {
+  padding: 20px;
+}
